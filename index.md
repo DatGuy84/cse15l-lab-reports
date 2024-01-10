@@ -1,7 +1,8 @@
 # Lab Report 1 - Remote Access and FileSystem
 
 ## CD
-![Image](https://raw.githubusercontent.com/DatGuy84/cse15l-lab-reports/main/CD%20CSE%2015%20Lab%201.png)
+![Image](https://github.com/DatGuy84/cse15l-lab-reports/assets/148490937/38488f72-f65b-4b23-b562-a76835d4dd5a)
+
 ```
 In the first line where cd has no arguments, the directory was home and the command "cd" changes the directory to home
 so there are no changes.  Therefore, there is no error when cd is typed out.
