@@ -23,13 +23,14 @@ The file is not considered a directory, so an error was created.
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20no%20arguments.png?raw=true)
 
 ```
-
+The working directory of this code was the home directory.  Because the file under home was lecture1, lecture1 was the
+only output produced.  There is no error.
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20lecture1.png?raw=true)
 
 ```
-
+The working directory was the home directory.  
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20README.png?raw=true)
