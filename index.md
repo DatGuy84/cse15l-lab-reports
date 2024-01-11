@@ -37,3 +37,11 @@ The file is not considered a directory, so an error was created.
 ```
 
 ```
+
+## cat
+![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/Cat%20no%20arguments.png?raw=true)
+
+```
+
+```
+
