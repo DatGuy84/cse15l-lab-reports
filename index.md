@@ -45,3 +45,10 @@ The file is not considered a directory, so an error was created.
 
 ```
 
+![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/cat%20Lecture1.png?raw=true)
+
+```
+
+```
+
+
