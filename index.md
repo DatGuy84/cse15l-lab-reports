@@ -24,13 +24,14 @@ The file is not considered a directory, so an error was created.
 
 ```
 The working directory of this code was the home directory.  Because the file under home was lecture1, lecture1 was the
-only output produced.  There is no error.
+only output produced when the command ls was typed.  There is no error.
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20lecture1.png?raw=true)
 
 ```
-The working directory was the home directory.  
+The working directory was the home directory. The command ls prints out all the files under the directory, so it printed
+out all the files in lecture1 since the argument was lecture one.  There are no errors.
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20README.png?raw=true)
