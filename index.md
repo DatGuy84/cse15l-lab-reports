@@ -44,17 +44,21 @@ out all the files in lecture1 since the argument was lecture one.  There are no 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/Cat%20no%20arguments.png?raw=true)
 
 ```
-
+The working directory was the home directory.  With the command cat, there is nothing being printed since there is no
+file.  There is no error.
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/cat%20Lecture1.png?raw=true)
 
 ```
-
+The working directory was the home directory.  Since the cat command's argument is a folder, its contents cannot be
+printed.  This is an error because the cat command is only meant to be used to print out the contents of a file
+and not a folder.
 ```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/cat%20README.png?raw=true)
 
 ```
-
+The working directory was the home directory.  Since the cat command's argument is a file, its contents can be
+printed out.  There is no error.
 ```
