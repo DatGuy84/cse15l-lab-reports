@@ -37,7 +37,9 @@ out all the files in lecture1 since the argument was lecture one.  There are no 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20README.png?raw=true)
 
 ```
-
+The working directoy was the home directory.  Since the ls command's argument is a file, it just lists the pathway
+from the working directory to the file.  This is not an error because using an ls command on a file allows people
+to know the pathway from the folders to a certain file.
 ```
 
 ## cat
