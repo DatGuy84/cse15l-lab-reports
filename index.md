@@ -15,21 +15,19 @@ changed to `lecture1` because the command cd followed by the argument
 errors in this output.
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/CD%20README.png?raw=true)
-```
-This code was ran in the lecture1 directory.  The output was an error because
-the cd tried to change the directory to a file. The file is not considered a
+
+This code was ran in the `lecture1` directory.  The output was an error because
+the `cd` tried to change the directory to a file. The file is not considered a
 directory, so an error was created.
-```
+
 
 ## ls
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20no%20arguments.png?raw=true)
 
-```
 The working directory of this code was the home directory.  Because the file
-under home was lecture1, lecture1 was the only output produced when the command
- ls was typed.  There is no error.
-```
+under home was `lecture1`, `lecture1` was the only output produced when the command
+ `ls` was typed.  There is no error.
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20lecture1.png?raw=true)
 
