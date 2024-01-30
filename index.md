@@ -25,47 +25,37 @@ directory, so an error was created.
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20no%20arguments.png?raw=true)
 
-The working directory of this code was the home directory.  Because the file
-under home was `lecture1`, `lecture1` was the only output produced when the command
+The working directory of this code was `/home`.  Because the file
+under `/home` was `lecture1`, `lecture1` was the only output produced when the command
  `ls` was typed.  There is no error.
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20lecture1.png?raw=true)
 
-```
-The working directory was the home directory. The command ls prints out all the
- files under the directory, so it printed out all the files in lecture1 since the
-argument was lecture one.  There are no errors.
-```
+The working directory was the `/home` directory. The command `ls` prints out all the
+ files under the directory, so it printed out all the files in `lecture1` since the
+argument was `lecture1`.  There are no errors.
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/ls%20README.png?raw=true)
 
-```
-The working directoy was the home directory.  Since the ls command's argument
+The working directoy was `/home`.  Since the `ls` command's argument
 is a file, it just lists the pathway from the working directory to the file.
-This is not an error because using an ls command on a file allows people
+This is not an error because using an `ls` command on a file allows people
 to know the pathway from the folders to a certain file.
-```
 
 ## cat
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/Cat%20no%20arguments.png?raw=true)
 
-```
-The working directory was the home directory.  With the command cat, there is
+The working directory was `/home`.  With the command `cat`, there is
 nothing being printed since there is no file.  There is no error.
-```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/cat%20Lecture1.png?raw=true)
 
-```
-The working directory was the home directory.  Since the cat command's argument
-is a folder, its contents cannot be printed.  This is an error because the cat
+The working directory was `/home`.  Since the `cat` command's argument
+is a folder, its contents cannot be printed.  This is an error because the `cat`
 command is only meant to be used to print out the contents of a file and not
 a folder.
-```
 
 ![Image](https://github.com/DatGuy84/cse15l-lab-reports/blob/main/cat%20README.png?raw=true)
 
-```
-The working directory was the home directory.  Since the cat command's argument
+The working directory was `/home`.  Since the `cat` command's argument
 is a file, its contents can be printed out.  There is no error.
-```
